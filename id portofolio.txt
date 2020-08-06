@@ -1,0 +1,11 @@
+Idées pour le portofolio !!
+
+Faire une barre nav ultra simple mais qui reste fixe tout en accompagnant l'utilisateur lorsqu'il se déplace dans la page.
+
+Faire des animations au niveau des exercices it et projets lors du stage du style :
+
+	- quand on passe la souris => opacité et texte qui apparaît,
+	- et/ou mouvement de vas et vient (gros plan, petit plan) lors du passage de la souris,
+	- animation qui se balade (infinate) dans un endroit de la page et on peut cliquer dessus,
+
+Faire un logo ou image (3d),
